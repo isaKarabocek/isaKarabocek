@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Isa
-#### I'm a mechatronics engineer
+<h1 align="center">### Hi there 👋, my name is Isa
+<h1 align="center">#### I'm a mechatronics engineer
 ![I'm a mechatronics engineer](https://engineering.kennesaw.edu/robotics-mechatronics/images/mechatronics-banner.jpg)
 
 I have a special interest in system modeling and control algorithms. I also love to develop unmanned aerial vehicles, autonomous vehicles and robotic arms :)
