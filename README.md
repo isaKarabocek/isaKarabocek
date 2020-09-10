@@ -1,23 +1,31 @@
-<h1 align="center">### Hi there 👋, my name is Isa
-<h1 align="center">#### I'm a mechatronics engineer
-![I'm a mechatronics engineer](https://engineering.kennesaw.edu/robotics-mechatronics/images/mechatronics-banner.jpg)
+<h1 align="center">Hi 👋, I'm Isa</h1>
+<h3 align="center">I'm a mechatronics engineer</h3>
 
-I have a special interest in system modeling and control algorithms. I also love to develop unmanned aerial vehicles, autonomous vehicles and robotic arms :)
+![I'm a mechatronics engineer](https://engineering.kennesaw.edu/robotics-mechatronics/images/mechatronics-banner.jpg)
 
 Skills: MATLAB / Simulink / C / C++ / C# / Python / Raspberry Pi / Solidworks
 
-- 🔭 I’m currently working on self driving cars. 
-- 🌱 I’m currently learning artificial intelligence with python 
-- 👯 I’m looking to collaborate on basic tutorials about OpenCV and Transfer Learning 
-- 🤔 I’m looking for help with github tips and tricks 
-- 💬 Ask me about electronics, mechanic design and control theory 
-- 📫 How to reach me: karabocekisa@gmail.com 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isakarabocek" alt="isakarabocek" /> </p>
 
+- 🔭 I’m currently working on **self driving cars.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isaKarabocek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/İsa Karaböcek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCav6--EFkccYeIBh_RkOF7Q)  
+- 🌱 I’m currently learning **artificial intelligence with python**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+- 👯 I’m looking to collaborate on **basic tutorials about OpenCV and Transfer Learning**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaKarabocek&show_icons=true)  
+- 🤝 I’m looking for help with **ROS**
 
-![Profile views](https://gpvc.arturio.dev/isaKarabocek)  
+- 💬 Ask me about **electronics, mechanic design and control theory**
+
+- 📫 How to reach me **karabocekisa@gmail.com**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakarabocek&layout=compact&hide=html" alt="isakarabocek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isakarabocek&show_icons=true" alt="isakarabocek" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/i̇sa karaböcek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="i̇sa karaböcek" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/i̇sa karaböcek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="i̇sa karaböcek" height="30" width="30" /></a>
+</p>
