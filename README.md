@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">I'm a mechatronics engineer</h3>
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!(https://www.flaticon.com/svg/static/icons/svg/947/947680.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakarabocek&label=Profile%20views&color=0e75b6&style=flat" alt="isakarabocek" /> </p>
 
